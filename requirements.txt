@@ -1,2 +1,5 @@
-pip install pipreqs
-pipreqs .
+streamlit
+openai
+requests
+python-dotenv
+pandas
